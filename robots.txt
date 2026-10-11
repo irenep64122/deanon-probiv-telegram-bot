@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://irenep64122.github.io/deanon-probiv-telegram-bot/sitemap.xml
